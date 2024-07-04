@@ -5,3 +5,4 @@ utworzyć plan testu dla MrBuggy7
 2
 3
 4
+Próba wysłania na GitHuba
